@@ -1,0 +1,1 @@
+env OCAMLRUNPARAMS='l=10M'
